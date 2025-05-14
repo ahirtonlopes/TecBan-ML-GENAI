@@ -1,0 +1,101 @@
+ID_Caixa,Data,Erro,Gravidade,Localizacao,Horas_Atividade,Causa_Provavel,Status_Caixa
+185,18/02/2025,Falha de Hardware,Alta,Porto Alegre - Moinhos,370,Controller Board Failure,Manutenção
+110,09/05/2025,Falha no Leitor de Cartões,Alta,Belo Horizonte - Savassi,916,Contaminated Card Reader Head,Fora de Serviço
+115,26/01/2025,Erro de Comunicação,Alta,Salvador - Pituba,921,Disconnected Cable,Fora de Serviço
+112,27/01/2025,Falha no Dispensador de Dinheiro,Baixa,São Paulo - Centro,376,Cash Jam in Dispenser,Fora de Serviço
+134,09/05/2025,Falha de Hardware,Baixa,Belo Horizonte - Savassi,636,Controller Board Failure,Em Serviço
+142,23/02/2025,Erro de Comunicação,Média,Porto Alegre - Moinhos,467,Disconnected Cable,Em Serviço
+154,10/01/2025,Falha no Leitor de Cartões,Baixa,Porto Alegre - Moinhos,273,Contaminated Card Reader Head,Em Serviço
+198,25/02/2025,Falha no Dispensador de Dinheiro,Média,Porto Alegre - Moinhos,448,Cash Jam in Dispenser,Fora de Serviço
+159,14/04/2025,Falha de Autenticação do Cartão,Média,Rio de Janeiro - Barra,818,Invalid Card Token,Fora de Serviço
+117,12/03/2025,Erro de Comunicação,Alta,Recife - Boa Viagem,154,Disconnected Cable,Em Serviço
+105,28/01/2025,Erro de Comunicação,Alta,Salvador - Pituba,991,Disconnected Cable,Manutenção
+100,10/01/2025,Falha no Dispensador de Dinheiro,Média,Rio de Janeiro - Barra,904,Cash Jam in Dispenser,Manutenção
+104,11/05/2025,Falha no Leitor de Cartões,Alta,Recife - Boa Viagem,348,Contaminated Card Reader Head,Fora de Serviço
+114,25/02/2025,Falha de Hardware,Média,Salvador - Pituba,426,Controller Board Failure,Em Serviço
+789,11/04/2025,Falha de Hardware,Alta,Belo Horizonte - Savassi,300,Controller Board Failure,Manutenção
+184,04/05/2025,Falha de Autenticação do Cartão,Baixa,Recife - Boa Viagem,345,Invalid Card Token,Fora de Serviço
+128,12/04/2025,Erro de Comunicação,Alta,São Paulo - Paulista,351,Disconnected Cable,Em Serviço
+195,01/01/2025,Falha de Autenticação do Cartão,Média,Curitiba - Batel,736,Invalid Card Token,Em Serviço
+169,14/01/2025,Falha de Hardware,Alta,São Paulo - Paulista,613,Controller Board Failure,Em Serviço
+183,08/05/2025,Falha no Leitor de Cartões,Média,Recife - Boa Viagem,321,Contaminated Card Reader Head,Fora de Serviço
+123,15/04/2025,Erro de Comunicação,Baixa,Curitiba - Batel,366,Disconnected Cable,Em Serviço
+164,07/03/2025,Falha no Leitor de Cartões,Baixa,Curitiba - Batel,593,Contaminated Card Reader Head,Fora de Serviço
+181,10/03/2025,Falha no Dispensador de Dinheiro,Alta,São Paulo - Paulista,572,Cash Jam in Dispenser,Em Serviço
+104,06/05/2025,Falha de Autenticação do Cartão,Alta,Rio de Janeiro - Copacabana,557,Invalid Card Token,Manutenção
+146,01/01/2025,Falha de Autenticação do Cartão,Alta,Recife - Boa Viagem,573,Invalid Card Token,Fora de Serviço
+187,10/03/2025,Falha de Autenticação do Cartão,Baixa,São Paulo - Paulista,879,Invalid Card Token,Manutenção
+156,01/02/2025,Erro de Comunicação,Alta,Rio de Janeiro - Barra,69,Disconnected Cable,Em Serviço
+185,25/01/2025,Falha no Dispensador de Dinheiro,Alta,Rio de Janeiro - Copacabana,534,Cash Jam in Dispenser,Manutenção
+117,14/04/2025,Falha no Leitor de Cartões,Baixa,Salvador - Pituba,814,Contaminated Card Reader Head,Em Serviço
+159,22/03/2025,Erro de Comunicação,Média,Salvador - Pituba,443,Disconnected Cable,Manutenção
+194,05/03/2025,Erro de Comunicação,Média,Belo Horizonte - Savassi,732,Disconnected Cable,Em Serviço
+109,09/02/2025,Erro de Comunicação,Baixa,Salvador - Pituba,84,Disconnected Cable,Fora de Serviço
+150,04/03/2025,Falha no Leitor de Cartões,Baixa,Porto Alegre - Moinhos,967,Contaminated Card Reader Head,Manutenção
+101,23/03/2025,Erro de Comunicação,Alta,Rio de Janeiro - Copacabana,768,Disconnected Cable,Manutenção
+155,31/03/2025,Erro de Comunicação,Média,Belo Horizonte - Savassi,765,Disconnected Cable,Fora de Serviço
+789,14/03/2025,Falha no Dispensador de Dinheiro,Alta,Belo Horizonte - Lourdes,250,Cash Jam in Dispenser,Manutenção
+194,07/04/2025,Falha no Dispensador de Dinheiro,Alta,Rio de Janeiro - Barra,271,Cash Jam in Dispenser,Fora de Serviço
+122,28/04/2025,Erro de Comunicação,Baixa,Porto Alegre - Moinhos,274,Disconnected Cable,Fora de Serviço
+125,15/01/2025,Erro de Comunicação,Baixa,São Paulo - Centro,303,Disconnected Cable,Fora de Serviço
+127,02/03/2025,Erro de Comunicação,Alta,Salvador - Pituba,788,Disconnected Cable,Fora de Serviço
+151,14/01/2025,Falha de Autenticação do Cartão,Média,Rio de Janeiro - Barra,866,Invalid Card Token,Em Serviço
+184,22/05/2025,Falha no Leitor de Cartões,Baixa,São Paulo - Centro,495,Contaminated Card Reader Head,Em Serviço
+142,16/03/2025,Falha de Hardware,Alta,Rio de Janeiro - Barra,328,Controller Board Failure,Em Serviço
+180,06/03/2025,Erro de Comunicação,Alta,Porto Alegre - Moinhos,190,Disconnected Cable,Fora de Serviço
+181,03/05/2025,Falha de Hardware,Baixa,Porto Alegre - Moinhos,331,Controller Board Failure,Manutenção
+148,25/02/2025,Falha no Dispensador de Dinheiro,Alta,Porto Alegre - Moinhos,433,Cash Jam in Dispenser,Manutenção
+114,06/01/2025,Falha no Leitor de Cartões,Média,Rio de Janeiro - Barra,485,Contaminated Card Reader Head,Fora de Serviço
+166,30/01/2025,Falha no Leitor de Cartões,Alta,Rio de Janeiro - Barra,844,Contaminated Card Reader Head,Manutenção
+101,20/04/2025,Erro de Comunicação,Baixa,Salvador - Pituba,960,Disconnected Cable,Manutenção
+194,29/03/2025,Falha de Autenticação do Cartão,Média,Porto Alegre - Moinhos,79,Invalid Card Token,Em Serviço
+197,31/01/2025,Falha no Dispensador de Dinheiro,Alta,São Paulo - Paulista,621,Cash Jam in Dispenser,Em Serviço
+145,25/02/2025,Falha de Hardware,Baixa,São Paulo - Paulista,470,Controller Board Failure,Manutenção
+188,04/04/2025,Falha no Leitor de Cartões,Baixa,Curitiba - Batel,701,Contaminated Card Reader Head,Manutenção
+179,01/02/2025,Falha de Autenticação do Cartão,Alta,Salvador - Pituba,86,Invalid Card Token,Fora de Serviço
+144,26/02/2025,Falha no Dispensador de Dinheiro,Baixa,Recife - Boa Viagem,955,Cash Jam in Dispenser,Em Serviço
+181,28/02/2025,Falha no Leitor de Cartões,Alta,Porto Alegre - Moinhos,682,Contaminated Card Reader Head,Fora de Serviço
+124,19/02/2025,Falha de Hardware,Alta,Salvador - Pituba,180,Controller Board Failure,Manutenção
+143,08/04/2025,Erro de Comunicação,Baixa,São Paulo - Centro,762,Disconnected Cable,Manutenção
+124,14/02/2025,Falha no Dispensador de Dinheiro,Alta,São Paulo - Paulista,788,Cash Jam in Dispenser,Fora de Serviço
+140,18/05/2025,Falha de Hardware,Média,Salvador - Pituba,439,Controller Board Failure,Fora de Serviço
+153,24/05/2025,Falha de Hardware,Alta,Curitiba - Batel,815,Controller Board Failure,Em Serviço
+181,26/01/2025,Falha no Dispensador de Dinheiro,Média,Belo Horizonte - Savassi,689,Cash Jam in Dispenser,Fora de Serviço
+112,15/03/2025,Falha no Leitor de Cartões,Alta,São Paulo - Paulista,181,Contaminated Card Reader Head,Fora de Serviço
+158,12/01/2025,Falha de Autenticação do Cartão,Média,Salvador - Pituba,351,Invalid Card Token,Em Serviço
+106,05/03/2025,Falha de Hardware,Baixa,Recife - Boa Viagem,684,Controller Board Failure,Manutenção
+198,14/05/2025,Erro de Comunicação,Média,São Paulo - Centro,706,Disconnected Cable,Fora de Serviço
+119,12/05/2025,Falha no Leitor de Cartões,Média,São Paulo - Centro,669,Contaminated Card Reader Head,Manutenção
+104,05/03/2025,Falha no Dispensador de Dinheiro,Alta,Belo Horizonte - Savassi,945,Cash Jam in Dispenser,Em Serviço
+192,13/01/2025,Falha no Leitor de Cartões,Alta,Salvador - Pituba,851,Contaminated Card Reader Head,Em Serviço
+132,14/01/2025,Falha no Dispensador de Dinheiro,Média,Curitiba - Batel,211,Cash Jam in Dispenser,Fora de Serviço
+146,14/03/2025,Falha no Dispensador de Dinheiro,Alta,Porto Alegre - Moinhos,374,Cash Jam in Dispenser,Em Serviço
+187,02/01/2025,Erro de Comunicação,Alta,Porto Alegre - Moinhos,684,Disconnected Cable,Manutenção
+175,14/01/2025,Falha de Autenticação do Cartão,Alta,São Paulo - Paulista,185,Invalid Card Token,Fora de Serviço
+169,26/03/2025,Erro de Comunicação,Baixa,Salvador - Pituba,839,Disconnected Cable,Fora de Serviço
+134,02/04/2025,Falha de Hardware,Média,São Paulo - Centro,699,Controller Board Failure,Em Serviço
+170,02/03/2025,Falha no Dispensador de Dinheiro,Alta,Salvador - Pituba,228,Cash Jam in Dispenser,Em Serviço
+103,26/01/2025,Falha de Autenticação do Cartão,Baixa,Recife - Boa Viagem,174,Invalid Card Token,Fora de Serviço
+172,22/01/2025,Falha de Hardware,Média,Porto Alegre - Moinhos,362,Controller Board Failure,Fora de Serviço
+194,27/03/2025,Erro de Comunicação,Média,Porto Alegre - Moinhos,919,Disconnected Cable,Em Serviço
+131,11/02/2025,Falha de Autenticação do Cartão,Baixa,São Paulo - Centro,620,Invalid Card Token,Em Serviço
+177,17/05/2025,Falha de Autenticação do Cartão,Baixa,São Paulo - Paulista,490,Invalid Card Token,Em Serviço
+126,02/05/2025,Falha no Leitor de Cartões,Baixa,Rio de Janeiro - Copacabana,853,Contaminated Card Reader Head,Fora de Serviço
+107,29/01/2025,Falha de Hardware,Baixa,Rio de Janeiro - Barra,90,Controller Board Failure,Em Serviço
+105,23/04/2025,Falha no Leitor de Cartões,Baixa,Recife - Boa Viagem,327,Contaminated Card Reader Head,Fora de Serviço
+120,21/01/2025,Falha de Autenticação do Cartão,Baixa,Rio de Janeiro - Barra,936,Invalid Card Token,Manutenção
+188,03/04/2025,Falha no Dispensador de Dinheiro,Média,Rio de Janeiro - Copacabana,235,Cash Jam in Dispenser,Fora de Serviço
+137,24/01/2025,Falha no Dispensador de Dinheiro,Baixa,São Paulo - Paulista,101,Cash Jam in Dispenser,Fora de Serviço
+170,12/03/2025,Falha de Hardware,Média,Belo Horizonte - Savassi,395,Controller Board Failure,Em Serviço
+123,13/03/2025,Erro de Comunicação,Alta,Belo Horizonte - Savassi,79,Disconnected Cable,Fora de Serviço
+109,19/04/2025,Erro de Comunicação,Baixa,Recife - Boa Viagem,993,Disconnected Cable,Em Serviço
+141,13/02/2025,Falha no Dispensador de Dinheiro,Baixa,Rio de Janeiro - Copacabana,538,Cash Jam in Dispenser,Em Serviço
+117,04/01/2025,Falha no Leitor de Cartões,Média,São Paulo - Paulista,567,Contaminated Card Reader Head,Em Serviço
+134,02/02/2025,Falha de Autenticação do Cartão,Média,São Paulo - Centro,258,Invalid Card Token,Manutenção
+150,18/04/2025,Falha de Autenticação do Cartão,Baixa,Curitiba - Batel,231,Invalid Card Token,Em Serviço
+150,19/04/2025,Falha de Hardware,Baixa,Curitiba - Batel,216,Controller Board Failure,Fora de Serviço
+116,18/02/2025,Falha de Hardware,Alta,Rio de Janeiro - Copacabana,768,Controller Board Failure,Fora de Serviço
+141,31/01/2025,Falha no Leitor de Cartões,Média,Rio de Janeiro - Copacabana,357,Contaminated Card Reader Head,Fora de Serviço
+123,02/02/2025,Falha de Hardware,Baixa,Curitiba - Batel,56,Controller Board Failure,Em Serviço
+121,28/05/2025,Falha de Hardware,Baixa,Porto Alegre - Moinhos,791,Controller Board Failure,Manutenção
+172,11/05/2025,Falha no Leitor de Cartões,Média,Recife - Boa Viagem,747,Contaminated Card Reader Head,Manutenção

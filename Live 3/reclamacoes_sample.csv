@@ -1,0 +1,101 @@
+ID_Caixa,Data,Reclamacao,ID_Cliente,Canal_Reclamacao,Tempo_Resposta_Horas,Solucao_Aplicada,Satisfacao_Cliente
+149,19/05/2025,Touchscreen not responding.,27030,Telefone,10,Equipe Enviada,4
+134,06/05/2025,ATM froze upon card insertion.,88687,Website,3,Equipe Enviada,3
+180,03/05/2025,Screen turned off during withdrawal.,38986,Telefone,16,Equipe Enviada,1
+146,22/05/2025,Unable to complete the transaction.,19664,Agência,1,Reinício Automático,1
+154,09/05/2025,Unable to complete transfer.,41765,Website,2,Equipe Enviada,1
+162,07/04/2025,ATM out of service unexpectedly.,20670,Website,22,Reinício Automático,1
+124,16/05/2025,Unable to complete the transaction.,12082,Telefone,1,Reparo Remoto,4
+120,07/02/2025,ATM froze upon card insertion.,74511,App,14,Equipe Enviada,3
+152,22/05/2025,Touchscreen not responding.,12440,Agência,18,Reinício Automático,1
+105,24/01/2025,ATM froze upon card insertion.,86981,Telefone,18,Equipe Enviada,2
+101,06/04/2025,Touchscreen not responding.,64154,Website,13,Reinício Automático,1
+196,07/05/2025,Card swallowed by ATM.,52003,Agência,9,Reinício Automático,4
+157,04/03/2025,Unable to complete the transaction.,93335,Telefone,5,Equipe Enviada,5
+176,03/01/2025,Screen turned off during withdrawal.,85813,Agência,20,Equipe Enviada,4
+153,01/01/2025,Screen turned off during withdrawal.,71908,Telefone,20,Reparo Remoto,3
+113,30/03/2025,Cash dispenser malfunctioned.,30257,Telefone,7,Reinício Automático,5
+178,13/02/2025,ATM froze upon card insertion.,66899,Website,3,Reparo Remoto,5
+183,27/03/2025,Receipt not printed.,95162,Telefone,14,Reinício Automático,5
+175,03/02/2025,Screen turned off during withdrawal.,63950,App,4,Reinício Automático,5
+197,12/02/2025,Screen turned off during withdrawal.,62101,Telefone,8,Reinício Automático,2
+175,04/01/2025,Receipt not printed.,24156,App,1,Reinício Automático,1
+193,13/02/2025,Card not recognized.,28293,App,5,Reparo Remoto,3
+118,28/02/2025,ATM froze upon card insertion.,26662,Website,23,Equipe Enviada,2
+199,05/02/2025,Screen turned off during withdrawal.,73898,Website,10,Reinício Automático,2
+133,25/04/2025,Screen turned off during withdrawal.,56562,App,18,Equipe Enviada,2
+132,03/02/2025,ATM froze upon card insertion.,60422,Agência,21,Reinício Automático,3
+143,22/05/2025,ATM out of service unexpectedly.,87982,Website,4,Reparo Remoto,4
+108,13/03/2025,Screen turned off during withdrawal.,59415,Website,21,Reinício Automático,5
+156,03/03/2025,ATM froze upon card insertion.,24312,Telefone,3,Equipe Enviada,1
+178,21/01/2025,Screen turned off during withdrawal.,99218,Website,1,Equipe Enviada,1
+200,16/03/2025,Card not recognized.,20487,Agência,13,Equipe Enviada,2
+112,26/01/2025,ATM froze upon card insertion.,59300,Telefone,1,Equipe Enviada,1
+158,19/02/2025,Incorrect cash dispensed.,18652,Agência,21,Reinício Automático,3
+114,29/05/2025,Unable to complete the transaction.,58442,Agência,2,Reinício Automático,2
+150,05/02/2025,Card not recognized.,84762,Telefone,1,Reparo Remoto,5
+124,12/02/2025,Card not recognized.,21443,App,13,Reparo Remoto,3
+162,12/04/2025,ATM froze upon card insertion.,44296,Agência,18,Reinício Automático,1
+122,15/03/2025,Cash dispenser malfunctioned.,62286,App,1,Reparo Remoto,2
+128,20/03/2025,Card swallowed by ATM.,34975,Agência,10,Reinício Automático,4
+111,15/01/2025,Cash dispenser malfunctioned.,46356,Agência,12,Reparo Remoto,5
+106,27/01/2025,Screen turned off during withdrawal.,34004,App,16,Equipe Enviada,2
+128,18/04/2025,ATM froze upon card insertion.,29525,App,14,Reparo Remoto,1
+148,16/04/2025,Card not recognized.,22560,Website,8,Reinício Automático,5
+121,31/01/2025,Screen turned off during withdrawal.,38816,Agência,20,Reparo Remoto,5
+129,25/03/2025,Touchscreen not responding.,13895,App,24,Reparo Remoto,1
+164,12/05/2025,Screen turned off during withdrawal.,94835,Agência,16,Equipe Enviada,5
+165,27/01/2025,ATM froze upon card insertion.,90149,Website,8,Reinício Automático,1
+160,11/02/2025,Card not recognized.,65403,Website,5,Equipe Enviada,1
+137,24/05/2025,Incorrect cash dispensed.,18250,App,8,Reinício Automático,3
+121,11/03/2025,Screen turned off during withdrawal.,39724,Website,12,Equipe Enviada,1
+110,27/01/2025,Card not recognized.,49373,Telefone,5,Reinício Automático,3
+100,20/01/2025,Unable to complete the transaction.,33516,App,23,Reinício Automático,5
+130,25/01/2025,Screen turned off during withdrawal.,97173,Website,13,Reinício Automático,1
+199,03/01/2025,ATM froze upon card insertion.,41696,App,4,Reinício Automático,1
+140,15/02/2025,Touchscreen not responding.,64304,Website,9,Reinício Automático,5
+193,31/01/2025,Card not recognized.,64474,Website,10,Reparo Remoto,4
+141,21/02/2025,Screen turned off during withdrawal.,36039,App,14,Equipe Enviada,2
+120,01/01/2025,Incorrect cash dispensed.,25324,App,11,Reinício Automático,2
+118,08/03/2025,Screen turned off during withdrawal.,67725,Telefone,21,Reinício Automático,3
+166,14/03/2025,Unable to complete the transaction.,32521,Agência,14,Equipe Enviada,2
+162,18/01/2025,Incorrect cash dispensed.,87539,Website,15,Equipe Enviada,1
+138,11/01/2025,Card not recognized.,26276,Agência,14,Reparo Remoto,4
+145,28/01/2025,Card not recognized.,88815,Agência,13,Reparo Remoto,1
+149,06/02/2025,ATM froze upon card insertion.,31281,Telefone,14,Equipe Enviada,3
+106,24/05/2025,Card not recognized.,28997,Telefone,20,Equipe Enviada,2
+124,14/04/2025,ATM froze upon card insertion.,28070,Agência,1,Equipe Enviada,3
+109,23/04/2025,Unable to complete the transaction.,31596,Agência,4,Reinício Automático,2
+118,10/03/2025,Card not recognized.,58448,Website,12,Reparo Remoto,3
+107,18/03/2025,Card not recognized.,17181,Agência,20,Reinício Automático,4
+108,19/02/2025,Unable to complete the transaction.,45899,Telefone,14,Reparo Remoto,3
+176,19/03/2025,ATM out of service unexpectedly.,75521,App,21,Equipe Enviada,3
+123,09/04/2025,Unable to withdraw money.,10101,App,2,Reparo Remoto,4
+101,11/02/2025,ATM froze upon card insertion.,67037,Website,22,Equipe Enviada,1
+188,14/01/2025,Cash dispenser malfunctioned.,56843,Telefone,2,Equipe Enviada,3
+123,13/03/2025,Card not recognized.,98280,App,6,Equipe Enviada,4
+172,27/01/2025,ATM froze upon card insertion.,89670,Website,13,Reparo Remoto,4
+163,09/01/2025,Card not recognized.,82459,App,12,Reparo Remoto,1
+188,05/04/2025,ATM froze upon card insertion.,79742,App,14,Equipe Enviada,1
+109,11/02/2025,Screen turned off during withdrawal.,76144,Agência,14,Reinício Automático,5
+188,15/01/2025,Card not recognized.,37815,Website,23,Equipe Enviada,5
+126,25/03/2025,ATM froze upon card insertion.,36217,Telefone,22,Equipe Enviada,1
+129,08/02/2025,Screen turned off during withdrawal.,54922,Telefone,7,Reinício Automático,1
+107,16/05/2025,Unable to complete the transaction.,59465,Agência,23,Reparo Remoto,2
+102,11/03/2025,Screen turned off during withdrawal.,31344,App,5,Equipe Enviada,4
+172,31/01/2025,Unable to complete the transaction.,49405,App,13,Reinício Automático,1
+162,03/01/2025,Card not recognized.,70646,App,24,Reparo Remoto,3
+117,18/02/2025,Screen turned off during withdrawal.,37948,App,19,Reparo Remoto,3
+131,14/03/2025,ATM froze upon card insertion.,66063,Agência,19,Reparo Remoto,5
+112,30/01/2025,ATM froze upon card insertion.,86027,Agência,5,Reparo Remoto,2
+105,24/01/2025,Cash dispenser malfunctioned.,58026,Agência,24,Reinício Automático,1
+183,16/01/2025,Screen turned off during withdrawal.,50788,Telefone,5,Equipe Enviada,3
+115,23/05/2025,ATM froze upon card insertion.,33559,App,9,Reparo Remoto,2
+178,03/05/2025,Screen turned off during withdrawal.,47281,Agência,2,Reparo Remoto,5
+108,24/02/2025,Card not recognized.,89278,Telefone,17,Equipe Enviada,5
+140,07/04/2025,Screen turned off during withdrawal.,93252,Agência,23,Equipe Enviada,3
+120,21/02/2025,Screen turned off during withdrawal.,92324,Agência,22,Reparo Remoto,2
+143,29/01/2025,Card not recognized.,98662,Telefone,21,Reinício Automático,2
+789,28/01/2025,Screen error during withdrawal attempt.,30303,App,3,Reparo Remoto,5
+131,27/04/2025,Screen turned off during withdrawal.,70838,Website,18,Equipe Enviada,4
+177,09/01/2025,Screen turned off during withdrawal.,48150,Agência,1,Reinício Automático,5
